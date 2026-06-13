@@ -246,7 +246,7 @@ fun_facts:
   </picture>
 </p>
 
-> 💡 **Setup:** Add a GitHub Action to generate the snake animation automatically! See the [setup instructions](#-snake-animation-setup) below.
+
 
 ---
 
