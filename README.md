@@ -33,9 +33,9 @@
   <a href="mailto:sabarikarthikeyan2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://sanjay-personal-portfolio.onrender.com/">
+  <!-- <a href="https://sanjay-personal-portfolio.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
 </p>
 
 <!-- VISITOR COUNTER -->
@@ -290,7 +290,7 @@ YAML         █░░░░░░░░░░░░░░░░░░░░    
 
 ## 🚀 What I'm Currently Up To
 
-<table>
+<!-- <table>
 <tr>
 <td>🔨</td>
 <td><b>Building</b></td>
@@ -316,7 +316,7 @@ YAML         █░░░░░░░░░░░░░░░░░░░░    
 <td><b>Fun Fact</b></td>
 <td>I containerize everything — even my side projects run in Docker!</td>
 </tr>
-</table>
+</table> -->
 
 ---
 
@@ -336,9 +336,9 @@ YAML         █░░░░░░░░░░░░░░░░░░░░    
   <a href="https://leetcode.com/u/sabari-sk/">
     <img src="https://img.shields.io/badge/-sabari--sk-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://sanjay-personal-portfolio.onrender.com/">
+  <!-- <a href="https://sanjay-personal-portfolio.onrender.com/">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
