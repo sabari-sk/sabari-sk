@@ -383,7 +383,7 @@ YAML         █░░░░░░░░░░░░░░░░░░░░    
 <!-- 🐍 SNAKE ANIMATION SETUP (GitHub Action)                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<details>
+<!-- <details>
 <summary><b>🐍 Snake Animation Setup</b></summary>
 
 Create `.github/workflows/snake.yml` in your profile repo:
@@ -416,9 +416,9 @@ jobs:
 
 Then update the snake image URLs in this README to point to your generated SVGs.
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary><b>⚙️ WakaTime Setup</b></summary>
 
 1. Sign up at [WakaTime](https://wakatime.com)
@@ -426,7 +426,7 @@ Then update the snake image URLs in this README to point to your generated SVGs.
 3. Add your WakaTime API key as a GitHub secret (`WAKATIME_API_KEY`)
 4. Use [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action
 
-</details>
+</details> -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- END OF README                                                                  -->
