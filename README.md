@@ -52,7 +52,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
 ```yaml
 name: Sabari Karthikeyan R
@@ -74,7 +74,7 @@ fun_facts:
   - ⚡ Motto: "Ship fast, scale smart, never stop learning"
 ```
 
-<br clear="both"/>
+<!-- <br clear="both"/> -->
 
 ---
 
