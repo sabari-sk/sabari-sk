@@ -3,24 +3,24 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ANIMATED HEADER BANNER -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SABARI%20KARTHIKEYAN%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
-</p>
+</p> -->
 
 <!-- ANIMATED TYPING SVG -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+Scalable+Distributed+Systems;%E2%9A%A1+Microservices+%7C+API+Gateways+%7C+Cloud+Native;%F0%9F%94%A5+Java+%7C+React+%7C+Node.js+%7C+Docker+%7C+AWS" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
 <!-- WAVE ANIMATION -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-</p>
+</p> -->
 
 <!-- QUICK LINKS / SOCIAL BADGES -->
-<p align="center">
+<!-- <p align="center">
   <a href="http://www.linkedin.com/in/sabari-it">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -36,13 +36,13 @@
   <!-- <a href="https://sanjay-personal-portfolio.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a> -->
-</p>
+</p> -->
 
 <!-- VISITOR COUNTER -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sabari-sk&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/sabari-sk?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-</p>
+</p> -->
 
 ---
 
@@ -84,7 +84,7 @@ fun_facts:
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,cpp,html,css,react,nodejs,docker,aws,git,github,linux,mongodb,mysql,redis,vscode,postman&perline=9" />
 </p>
 
@@ -131,7 +131,7 @@ fun_facts:
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-</details>
+</details> -->
 
 ---
 
@@ -141,7 +141,7 @@ fun_facts:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
 
-<table>
+<!-- <table>
 <tr>
 <td width="50%">
 
@@ -187,7 +187,7 @@ fun_facts:
 
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
@@ -197,26 +197,26 @@ fun_facts:
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/sabari-sk">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabari-sk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari-sk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
   </a>
-</p>
+</p> -->
 
 <!-- STREAK STATS -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/sabari-sk">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabari-sk&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
   </a>
-</p>
+</p> -->
 
 <!-- ACTIVITY GRAPH -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/sabari-sk">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabari-sk&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -226,9 +226,9 @@ fun_facts:
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sabari-sk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
+</p> -->
 
 ---
 
@@ -238,13 +238,13 @@ fun_facts:
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabari-sk/sabari-sk/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabari-sk/sabari-sk/output/github-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/sabari-sk/sabari-sk/output/github-snake-dark.svg" />
   </picture>
-</p>
+</p> -->
 
 
 
@@ -256,11 +256,11 @@ fun_facts:
 
 ## 🎓 Certifications & Achievements
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/LinkedIn-Full_Stack_Developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Full Stack"/>
   <img src="https://img.shields.io/badge/LinkedIn-SQL_Essential_Training-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="SQL"/>
-</p>
+</p> -->
 
 ---
 
@@ -326,7 +326,7 @@ YAML         █░░░░░░░░░░░░░░░░░░░░    
 
 ## 🤝 Let's Connect & Collaborate!
 
-<p align="center">
+<!-- <p align="center">
   <a href="http://www.linkedin.com/in/sabari-it">
     <img src="https://img.shields.io/badge/-Sabari_Karthikeyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -339,9 +339,9 @@ YAML         █░░░░░░░░░░░░░░░░░░░░    
   <!-- <a href="https://sanjay-personal-portfolio.onrender.com/">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a> -->
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 </p>
 
@@ -351,7 +351,7 @@ YAML         █░░░░░░░░░░░░░░░░░░░░    
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-</p>
+</p> -->
 
 ---
 
@@ -359,13 +359,13 @@ YAML         █░░░░░░░░░░░░░░░░░░░░    
 <!-- SUPPORT / BUY ME A COFFEE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
+<!-- <p align="center">
   If you like my work, consider giving a ⭐ to my repos!
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Star_My_Repos_⭐-yellow?style=for-the-badge"/>
-</p>
+</p> -->
 
 ---
 
@@ -373,9 +373,9 @@ YAML         █░░░░░░░░░░░░░░░░░░░░    
 <!-- ANIMATED FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</p>
+</p> -->
 
 ---
 
